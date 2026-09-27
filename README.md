@@ -1,7 +1,7 @@
 # 📊 Superstore Sales & Revenue Performance Dashboard
 
 An end-to-end Excel analytics project that turns raw, unprocessed retail transaction data into an interactive sales dashboard — covering data cleaning, business calculations, pivot analysis, and data visualization, all built from scratch in Excel.
-![Dashboard Screenshot](screenshots/01-dashboard-overview.png)
+
 ---
 
 ## 🎯 Project Objective
@@ -52,26 +52,26 @@ This project's documentation is split into focused files so each part is easy to
 
 --- 
 ### Dashboard Overview
-
-![Dashboard Overview](Screenshots/01-dashboard-overview.png)
+ 
+![Dashboard Screenshot](screenshots/01-dashboard-overview.png)
 
 The main dashboard brings the key metrics and analysis together in a single view.
 
 ### Interactive Dashboard
 
-![Interactive Dashboard](Screenshots/02-dashboard-interactive.png)
+![Interactive Dashboard](screenshots/02-dashboard-interactive.png)
 
 A filtered view of the dashboard showing how the analysis changes based on the selected month.
 
 ### Sales Analysis
 
-![Sales Analysis](Screenshots/03-sales-analysis.png)
+![Sales Analysis](screenshots/03-sales-analysis.png)
 
 The sales analysis focuses on trends, categories, products, customers, and years.
 
 ### Supporting Excel Analysis
 
-![Excel Analysis](Screenshots/04-data-analysis.png)
+![Excel Analysis](screenshots/04-data-analysis.png)
 
 The dashboard is supported by PivotTables and structured Excel analysis built from the underlying transaction data.
 
