@@ -1,0 +1,23 @@
+# Excel temp/lock files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*~
+
+# Large or generated exports (uncomment if you don't want them tracked)
+# data/cleaned/*.csv
